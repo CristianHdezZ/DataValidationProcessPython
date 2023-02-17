@@ -4,9 +4,6 @@ from google.oauth2 import service_account
 from datetime import date, timedelta, datetime
 
 
-
-
-
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 KEY = 'key.json'
 # Escribe aquí el ID de tu documento:

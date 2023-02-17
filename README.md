@@ -10,8 +10,9 @@
 3. Google Sheets de data verificada:
     https://docs.google.com/spreadsheets/d/1VLRN4f6BgjFf6aAVgI0JfEXCUMJwIzwgmRJMU_ZZYZA/edit#gid=0
 4. Ejecución del proyecto en terminal:
+    - python -m venv venv
     - .\venv\Scripts\activate
-    - AutomatedProcess>py validationConditions.py     
+    - py validationConditions.py     
 
 
 ---
